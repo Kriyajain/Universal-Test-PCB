@@ -1,0 +1,14 @@
+Partition Merge Status : Successful - Tue Apr  1 17:01:18 2025
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : i2c
+Top-level Entity Name : i2c_read_write
+Family : Cyclone IV E
+Total logic elements : 846
+    Total combinational functions : 626
+    Dedicated logic registers : 600
+Total registers : 600
+Total pins : 12
+Total virtual pins : 0
+Total memory bits : 98,304
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

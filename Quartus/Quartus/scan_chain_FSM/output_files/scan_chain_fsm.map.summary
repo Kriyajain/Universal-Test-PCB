@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue May 13 12:08:43 2025
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : scan_chain_fsm
+Top-level Entity Name : scan_chain_fsm
+Family : Cyclone IV E
+Total logic elements : 1,020
+    Total combinational functions : 621
+    Dedicated logic registers : 782
+Total registers : 782
+Total pins : 8
+Total virtual pins : 0
+Total memory bits : 360,448
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

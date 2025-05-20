@@ -1,0 +1,79 @@
+module timing_fsm (
+  input wire clk,
+  input wire key,         // Active-low key input (e.g., KEY0 from FPGA)
+  output reg clk_out,     // Divided clock output
+  output reg din,         // Serial data out
+  output reg reset        // Reset for scan chain
+);
+
+parameter CLK_DIV = 32;
+reg [4:0] clk_count = 0;
+reg clk_out_int = 0;
+
+reg [7:0] data = 8'b01010101;
+reg [3:0] bit_index = 0;
+reg [3:0] reset_counter = 0;
+
+typedef enum logic [2:0] {
+  IDLE  = 3'b000,
+  START = 3'b001,
+  RESET = 3'b010,
+  SHIFT = 3'b011
+} state_t;
+
+state_t state = IDLE, next_state = IDLE;
+
+// Clock divider (clk_out: ~clk/32)
+always @(posedge clk) begin
+  clk_count <= clk_count + 1;
+  clk_out_int <= clk_count[4];
+end
+
+assign clk_out = clk_out_int;
+
+// FSM state transition
+always @(posedge clk) begin
+  state <= next_state;
+end
+
+// FSM logic
+always @(*) begin
+  case (state)
+    IDLE:   next_state = (key == 0) ? START : IDLE;
+    START:  next_state = RESET;
+    RESET:  next_state = (reset_counter == 10) ? SHIFT : RESET;
+    SHIFT:  next_state = (bit_index == 8) ? IDLE : SHIFT;
+    default: next_state = IDLE;
+  endcase
+end
+
+// FSM outputs and behavior
+always @(posedge clk) begin
+  case (state)
+    IDLE: begin
+      reset <= 1;
+      din <= 0;
+      bit_index <= 0;
+      reset_counter <= 0;
+    end
+
+    START: begin
+      reset <= 1;
+    end
+
+    RESET: begin
+      reset <= 1;
+      reset_counter <= reset_counter + 1;
+    end
+
+    SHIFT: begin
+      reset <= 0;
+      if (~clk_out_int) begin  // Shift on falling edge of clk_out
+        din <= data[bit_index];
+        bit_index <= bit_index + 1;
+      end
+    end
+  endcase
+end
+
+endmodule
