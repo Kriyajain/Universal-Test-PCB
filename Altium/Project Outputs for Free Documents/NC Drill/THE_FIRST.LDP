@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\THE_FIRST\THE_FIRST\THE_FIRST.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=the_first.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=the_first-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=SDA Pin=U3A-11
+Removed Pin From Net: NetName=SCL Pin=U3A-12
+Removed Pin From Net: NetName=VDD Pin=U3A-13
+Removed Pin From Net: NetName=VDD Pin=U3A-14
+Removed Pin From Net: NetName=SDA Pin=U3B-11
+Removed Pin From Net: NetName=SCL Pin=U3B-12
+Removed Pin From Net: NetName=VDD Pin=U3B-13
+Removed Pin From Net: NetName=GND Pin=U3B-14
+Removed Pin From Net: NetName=SDA Pin=U9A-11
+Removed Pin From Net: NetName=SCL Pin=U9A-12
+Removed Pin From Net: NetName=GND Pin=U9A-13
+Removed Pin From Net: NetName=GND Pin=U9A-14
+Removed Pin From Net: NetName=SDA Pin=U9B-11
+Removed Pin From Net: NetName=SCL Pin=U9B-12
+Removed Pin From Net: NetName=GND Pin=U9B-13
+Removed Pin From Net: NetName=VDD Pin=U9B-14
+Change Net Name : Old Net Name=SCL New Net Name=CLK
+Change Net Name : Old Net Name=SDA New Net Name=SDI
+Added Pin To Net: NetName=CLKA Pin=U3A-12
+Added Net: Name=CLKA
+Add Net: Net with name "CLKA" already exists
+Added Pin To Net: NetName=CLKB Pin=U3B-12
+Added Net: Name=CLKB
+Add Net: Net with name "CLKB" already exists
+Added Pin To Net: NetName=CSAA Pin=U3A-13
+Added Net: Name=CSAA
+Add Net: Net with name "CSAA" already exists
+Added Pin To Net: NetName=CSAB Pin=U3B-13
+Added Net: Name=CSAB
+Add Net: Net with name "CSAB" already exists
+Added Pin To Net: NetName=RESAA Pin=U9A-14
+Added Net: Name=RESAA
+Add Net: Net with name "RESAA" already exists
+Added Pin To Net: NetName=RESAB Pin=U3B-14
+Added Net: Name=RESAB
+Add Net: Net with name "RESAB" already exists
+Added Pin To Net: NetName=SDIA Pin=U3A-11
+Added Net: Name=SDIA
+Add Net: Net with name "SDIA" already exists
+Added Pin To Net: NetName=SDIB Pin=U9B-11
+Added Net: Name=SDIB
+Add Net: Net with name "SDIB" already exists

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SDA Pin=R2 3.3K-1
+Removed Pin From Net: NetName=SDA Pin=U2-JP1_10
+Added Pin To Net: NetName=VDD3.3 Pin=U2-JP1_11
+Added Pin To Net: NetName=GND Pin=U2-JP1_12
+Added Pin To Net: NetName=VDD3.3 Pin=U2-JP1_29
+Added Pin To Net: NetName=GND Pin=U2-JP1_30
+Added Pin To Net: NetName=GND Pin=U2-JP2_12
+Added Pin To Net: NetName=GND Pin=U2-JP2_30
+Added Pin To Net: NetName=NetR2 3.3K_1 Pin=R2 3.3K-1
+Added Pin To Net: NetName=NetR2 3.3K_1 Pin=U2-JP1_10
+Added Net: Name=NetR2 3.3K_1

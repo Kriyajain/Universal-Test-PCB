@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VDD Pin=J39-1
+Removed Pin From Net: NetName=VDD3.3 Pin=J40-1
+Removed Pin From Net: NetName=VDD3.3 Pin=J41-1
+Removed Pin From Net: NetName=VDD Pin=J42-1
+Removed Pin From Net: NetName=VDD Pin=U2-JP1_11
+Removed Pin From Net: NetName=VDD3.3 Pin=U2-JP1_29
+Removed Pin From Net: NetName=VDD Pin=U2-JP2_11
+Removed Pin From Net: NetName=VDD3.3 Pin=U2-JP2_29
+Added Pin To Net: NetName=VDD3.3_fpga Pin=J40-1
+Added Pin To Net: NetName=VDD3.3_fpga Pin=J41-1
+Added Pin To Net: NetName=VDD3.3_fpga Pin=U2-JP1_29
+Added Pin To Net: NetName=VDD3.3_fpga Pin=U2-JP2_29
+Added Net: Name=VDD3.3_fpga
+Added Pin To Net: NetName=VDD_fpga Pin=J39-1
+Added Pin To Net: NetName=VDD_fpga Pin=J42-1
+Added Pin To Net: NetName=VDD_fpga Pin=U2-JP1_11
+Added Pin To Net: NetName=VDD_fpga Pin=U2-JP2_11
+Added Net: Name=VDD_fpga

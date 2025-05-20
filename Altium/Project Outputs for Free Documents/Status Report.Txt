@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [THE_FIRST.PrjPcb]
+   Generated File[Bill of Materials-THE_FIRST.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:51:11 On 15-05-2025

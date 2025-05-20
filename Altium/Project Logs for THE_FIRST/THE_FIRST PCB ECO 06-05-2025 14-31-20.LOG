@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD Pin=U2-JP1_11
+Removed Pin From Net: NetName=VDD3.3 Pin=U2-JP1_29
+Removed Pin From Net: NetName=VDD Pin=U2-JP2_11
+Removed Pin From Net: NetName=VDD3.3 Pin=U2-JP2_29

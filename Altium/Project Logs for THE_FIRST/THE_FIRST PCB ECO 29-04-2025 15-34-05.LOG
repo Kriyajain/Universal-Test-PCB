@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CSA2 Pin=U2-JP1_8
+Removed Pin From Net: NetName=RESETA2 Pin=U2-JP1_10
+Added Pin To Net: NetName=RESETA2 Pin=U2-JP1_8
+Added Pin To Net: NetName=CSA2 Pin=U2-JP1_10

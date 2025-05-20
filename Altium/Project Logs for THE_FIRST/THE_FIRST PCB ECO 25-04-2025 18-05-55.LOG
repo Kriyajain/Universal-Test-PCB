@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VDD3.3 Pin=U9B-10
+Added Pin To Net: NetName=VDD3.3A Pin=U9A-10
+Added Net: Name=VDD3.3A

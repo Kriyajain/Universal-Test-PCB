@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: THE_FIRST.PcbDoc   15-05-2025  19:51:09
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : THE_FIRST.TXT
+ASCII RectHoles File : THE_FIRST-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             521       PTH        2656.24mm (104.58inch)
+T2      0.8mm (31mil)                                             Rectangle         3         PTH        15.13mm (0.60inch)
+T3      1.02mm (40mil)                                            Round             80        PTH        461.16mm (18.16inch)
+T4      1.06mm (42mil)                                            Round             80        PTH        277.12mm (10.91inch)
+T5      3.2mm (126mil)                                            Round             8         PTH        472.30mm (18.59inch)
+T6      1.7mm (67mil)                                             Round             2         NPTH       5.50mm (0.22inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              694
+
+Total Processing Time (hh:mm:ss) : 00:00:00

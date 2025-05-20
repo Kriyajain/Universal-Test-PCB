@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=DOUT1A Pin=J?-1
+Removed Pin From Net: NetName=SC1B1 Pin=J?-1
+Removed Pin From Net: NetName=SC1B2 Pin=J?-1
+Removed Pin From Net: NetName=SC2B1 Pin=J?-1
+Removed Pin From Net: NetName=SC2B2 Pin=J?-1
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J36
+Change Component Designator: OldDesignator=J? NewDesignator=J37
+Change Component Designator: OldDesignator=J? NewDesignator=J38
+Change Component Designator: OldDesignator=J? NewDesignator=J39
+Change Component Designator: OldDesignator=J? NewDesignator=J40
+Added Pin To Net: NetName=SC2A1 Pin=J12-1
+Added Pin To Net: NetName=SC1A2 Pin=J36-1
+Added Pin To Net: NetName=SC2A2 Pin=J37-1
+Added Pin To Net: NetName=SC1A1 Pin=J39-1
+Added Pin To Net: NetName=DOUT2A Pin=J40-1
+Added Member To Class: ClassName=THE_FIRST Member=Component J12 EMPCB.SMAFSTJ.B.HT
+Added Member To Class: ClassName=THE_FIRST Member=Component J36 EMPCB.SMAFSTJ.B.HT
+Added Member To Class: ClassName=THE_FIRST Member=Component J37 EMPCB.SMAFSTJ.B.HT
+Added Member To Class: ClassName=THE_FIRST Member=Component J38 EMPCB.SMAFSTJ.B.HT
+Added Member To Class: ClassName=THE_FIRST Member=Component J40 EMPCB.SMAFSTJ.B.HT

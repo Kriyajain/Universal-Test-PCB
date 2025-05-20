@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CLK1 Pin=U2-JP1_2
+Removed Pin From Net: NetName=SDI1 Pin=U2-JP1_4
+Removed Pin From Net: NetName=CSA1 Pin=U2-JP1_6
+Removed Pin From Net: NetName=RESETA1 Pin=U2-JP1_8
+Added Pin To Net: NetName=CLK1 Pin=U2-JP1_1
+Added Pin To Net: NetName=SDI1 Pin=U2-JP1_2
+Added Pin To Net: NetName=CSA1 Pin=U2-JP1_4
+Added Pin To Net: NetName=RESETA1 Pin=U2-JP1_6

@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=VDD Pin=U3A-13
+Removed Pin From Net: NetName=VDD Pin=U3A-14
+Removed Pin From Net: NetName=VDD Pin=U3B-13
+Removed Pin From Net: NetName=GND Pin=U3B-14
+Removed Pin From Net: NetName=SDA Pin=U9A-11
+Removed Pin From Net: NetName=GND Pin=U9A-13
+Removed Pin From Net: NetName=GND Pin=U9A-14
+Removed Pin From Net: NetName=SDA Pin=U9B-11
+Removed Pin From Net: NetName=GND Pin=U9B-13
+Removed Pin From Net: NetName=VDD Pin=U9B-14
+Change Net Name : Old Net Name=SCL New Net Name=CLK
+Change Net Name : Old Net Name=SDA New Net Name=SDI
+Added Pin To Net: NetName=CSA1 Pin=U2-JP1_8
+Added Pin To Net: NetName=CSA1 Pin=U3B-13
+Added Pin To Net: NetName=CSA1 Pin=U9B-13
+Added Net: Name=CSA1
+Added Pin To Net: NetName=CSA2 Pin=U2-JP1_36
+Added Pin To Net: NetName=CSA2 Pin=U3A-13
+Added Pin To Net: NetName=CSA2 Pin=U9A-13
+Added Net: Name=CSA2
+Added Pin To Net: NetName=OUT1 Pin=U9B-16
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=U9A-16
+Added Net: Name=OUT2
+Added Pin To Net: NetName=RESETA1 Pin=U2-JP1_10
+Added Pin To Net: NetName=RESETA1 Pin=U3B-14
+Added Pin To Net: NetName=RESETA1 Pin=U9B-14
+Added Net: Name=RESETA1
+Added Pin To Net: NetName=RESETA2 Pin=U2-JP1_34
+Added Pin To Net: NetName=RESETA2 Pin=U3A-14
+Added Pin To Net: NetName=RESETA2 Pin=U9A-14
+Added Net: Name=RESETA2
+Added Pin To Net: NetName=SDO1 Pin=U3B-16
+Added Pin To Net: NetName=SDO1 Pin=U9B-11
+Added Net: Name=SDO1
+Added Pin To Net: NetName=SDO2 Pin=U3A-16
+Added Pin To Net: NetName=SDO2 Pin=U9A-11
+Added Net: Name=SDO2

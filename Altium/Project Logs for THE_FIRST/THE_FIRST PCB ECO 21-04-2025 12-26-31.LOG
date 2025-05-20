@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VDD Pin=U3A-10
+Removed Pin From Net: NetName=VDD Pin=U3B-10
+Removed Pin From Net: NetName=VDD Pin=U9A-10
+Removed Pin From Net: NetName=VDD Pin=U9B-10
+Added Pin To Net: NetName=VDD3.3 Pin=U3A-10
+Added Pin To Net: NetName=VDD3.3 Pin=U3B-10

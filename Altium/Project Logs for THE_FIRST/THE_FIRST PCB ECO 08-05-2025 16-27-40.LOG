@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SC1B Pin=U2-JP2_35
+Removed Pin From Net: NetName=SC2B Pin=U2-JP2_37
+Removed Pin From Net: NetName=SC3B Pin=U2-JP2_39
+Added Pin To Net: NetName=SC2B Pin=U2-JP2_35
+Added Pin To Net: NetName=SC3B Pin=U2-JP2_37
+Added Pin To Net: NetName=SC1B Pin=U2-JP2_39

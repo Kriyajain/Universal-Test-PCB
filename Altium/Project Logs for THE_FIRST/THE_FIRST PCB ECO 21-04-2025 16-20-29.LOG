@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SC5 Pin=U2-JP2_14
+Removed Pin From Net: NetName=SC6 Pin=U2-JP2_16
+Removed Pin From Net: NetName=SC7 Pin=U2-JP2_18
+Removed Pin From Net: NetName=SC8 Pin=U2-JP2_20
+Removed Pin From Net: NetName=SC9 Pin=U2-JP2_22
+Removed Pin From Net: NetName=SC10 Pin=U2-JP2_24
+Removed Pin From Net: NetName=SC11 Pin=U2-JP2_26
+Removed Pin From Net: NetName=SC12 Pin=U2-JP2_28
+Added Pin To Net: NetName=SC5 Pin=U2-JP2_12
+Added Pin To Net: NetName=SC6 Pin=U2-JP2_14
+Added Pin To Net: NetName=SC7 Pin=U2-JP2_16
+Added Pin To Net: NetName=SC8 Pin=U2-JP2_18
+Added Pin To Net: NetName=SC9 Pin=U2-JP2_20
+Added Pin To Net: NetName=SC10 Pin=U2-JP2_22
+Added Pin To Net: NetName=SC11 Pin=U2-JP2_24
+Added Pin To Net: NetName=SC12 Pin=U2-JP2_26

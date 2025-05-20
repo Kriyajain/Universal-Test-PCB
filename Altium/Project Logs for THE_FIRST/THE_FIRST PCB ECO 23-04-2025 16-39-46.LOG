@@ -1,0 +1,402 @@
+Removed Pin From Net: NetName=VDD3.3 Pin=R1A-2
+Removed Pin From Net: NetName=VDD3.3 Pin=R1B-2
+Removed Pin From Net: NetName=Vout1 Pin=R4A-2
+Removed Pin From Net: NetName=Vout2 Pin=R4B-2
+Removed Pin From Net: NetName=Vout3 Pin=R4C-2
+Removed Pin From Net: NetName=Vout4 Pin=R4D-2
+Removed Pin From Net: NetName=Vout5 Pin=R4E-2
+Removed Pin From Net: NetName=Vout6 Pin=R4F-2
+Removed Pin From Net: NetName=Vout7 Pin=R4G-2
+Removed Pin From Net: NetName=Vout8 Pin=R4H-2
+Removed Pin From Net: NetName=VDD3.3 Pin=U3A-10
+Removed Pin From Net: NetName=VDD3.3 Pin=U3B-10
+Removed Pin From Net: NetName=VDD3.3 Pin=U9A-10
+Removed Pin From Net: NetName=VDD3.3 Pin=U9B-10
+Removed Member From Class: ClassName=THE_FIRST Member=J34
+Removed Member From Class: ClassName=U_LDO3.31 Member=R1A
+Removed Member From Class: ClassName=U_LDO3.32 Member=R1B
+Removed Member From Class: ClassName=U_ldo1 Member=R4A
+Removed Member From Class: ClassName=U_ldo2 Member=R4B
+Removed Member From Class: ClassName=U_ldo3 Member=R4C
+Removed Member From Class: ClassName=U_ldo4 Member=R4D
+Removed Member From Class: ClassName=U_ldo5 Member=R4E
+Removed Member From Class: ClassName=U_ldo6 Member=R4F
+Removed Member From Class: ClassName=U_ldo7 Member=R4G
+Removed Member From Class: ClassName=U_ldo8 Member=R4H
+Change Component Comment : Designator=C7A Old Comment=C0805C104K4RAC New Comment=0.1 uF C0805C104K4RAC
+Change Component Comment : Designator=C7B Old Comment=C0805C104K4RAC New Comment=0.1 uF C0805C104K4RAC
+Change Component Designator: OldDesignator=C3A NewDesignator=C3 0.1uFA
+Change Component Designator: OldDesignator=C3B NewDesignator=C3 0.1uFB
+Change Component Designator: OldDesignator=C4A NewDesignator=C4 10uFA
+Change Component Designator: OldDesignator=C4B NewDesignator=C4 10uFB
+Change Component Designator: OldDesignator=C5A NewDesignator=C5 22uFA
+Change Component Designator: OldDesignator=C5B NewDesignator=C5 22uFB
+Change Component Designator: OldDesignator=C6A NewDesignator=C6 0.1uFA
+Change Component Designator: OldDesignator=C6B NewDesignator=C6 0.1uFB
+Change Component Designator: OldDesignator=C6C NewDesignator=C6 0.1uFC
+Change Component Designator: OldDesignator=C6D NewDesignator=C6 0.1uFD
+Change Component Designator: OldDesignator=C6E NewDesignator=C6 0.1uFE
+Change Component Designator: OldDesignator=C6F NewDesignator=C6 0.1uFF
+Change Component Designator: OldDesignator=C6G NewDesignator=C6 0.1uFG
+Change Component Designator: OldDesignator=C6H NewDesignator=C6 0.1uFH
+Change Component Designator: OldDesignator=C7A NewDesignator=C7 0.1uFA
+Change Component Designator: OldDesignator=C7B NewDesignator=C7 0.1uFB
+Change Component Designator: OldDesignator=C8A NewDesignator=C8 0.1uFA
+Change Component Designator: OldDesignator=C8B NewDesignator=C8 0.1uFB
+Change Component Designator: OldDesignator=C13A NewDesignator=C13 10uFA
+Change Component Designator: OldDesignator=C13B NewDesignator=C13 10uFB
+Change Component Designator: OldDesignator=C13C NewDesignator=C13 10uFC
+Change Component Designator: OldDesignator=C13D NewDesignator=C13 10uFD
+Change Component Designator: OldDesignator=C13E NewDesignator=C13 10uFE
+Change Component Designator: OldDesignator=C13F NewDesignator=C13 10uFF
+Change Component Designator: OldDesignator=C13G NewDesignator=C13 10uFG
+Change Component Designator: OldDesignator=C13H NewDesignator=C13 10uFH
+Change Component Designator: OldDesignator=C14A NewDesignator=C14 22uFA
+Change Component Designator: OldDesignator=C14B NewDesignator=C14 22uFB
+Change Component Designator: OldDesignator=C14C NewDesignator=C14 22uFC
+Change Component Designator: OldDesignator=C14D NewDesignator=C14 22uFD
+Change Component Designator: OldDesignator=C14E NewDesignator=C14 22uFE
+Change Component Designator: OldDesignator=C14F NewDesignator=C14 22uFF
+Change Component Designator: OldDesignator=C14G NewDesignator=C14 22uFG
+Change Component Designator: OldDesignator=C14H NewDesignator=C14 22uFH
+Change Component Designator: OldDesignator=C18A NewDesignator=C18 0.10uFA
+Change Component Designator: OldDesignator=C18B NewDesignator=C18 0.10uFB
+Change Component Designator: OldDesignator=C18C NewDesignator=C18 0.10uFC
+Change Component Designator: OldDesignator=C18D NewDesignator=C18 0.10uFD
+Change Component Designator: OldDesignator=C18E NewDesignator=C18 0.10uFE
+Change Component Designator: OldDesignator=C18F NewDesignator=C18 0.10uFF
+Change Component Designator: OldDesignator=C18G NewDesignator=C18 0.10uFG
+Change Component Designator: OldDesignator=C18H NewDesignator=C18 0.10uFH
+Change Component Designator: OldDesignator=C22A NewDesignator=C22 0.1uFA
+Change Component Designator: OldDesignator=C22B NewDesignator=C22 0.1uFB
+Change Component Designator: OldDesignator=C22C NewDesignator=C22 0.1uFC
+Change Component Designator: OldDesignator=C22D NewDesignator=C22 0.1uFD
+Change Component Designator: OldDesignator=C22E NewDesignator=C22 0.1uFE
+Change Component Designator: OldDesignator=C22F NewDesignator=C22 0.1uFF
+Change Component Designator: OldDesignator=C22G NewDesignator=C22 0.1uFG
+Change Component Designator: OldDesignator=C22H NewDesignator=C22 0.1uFH
+Change Component Designator: OldDesignator=R2A NewDesignator=R2 75.3kA
+Change Component Designator: OldDesignator=R2B NewDesignator=R2 75.3kB
+Change Component Designator: OldDesignator=R3A NewDesignator=R3 24.3kA
+Change Component Designator: OldDesignator=R3B NewDesignator=R3 24.3kB
+Change Component Designator: OldDesignator=R8A NewDesignator=R8 12.6kA
+Change Component Designator: OldDesignator=R8B NewDesignator=R8 12.6kB
+Change Component Designator: OldDesignator=R8C NewDesignator=R8 12.6kC
+Change Component Designator: OldDesignator=R8D NewDesignator=R8 12.6kD
+Change Component Designator: OldDesignator=R8E NewDesignator=R8 12.6kE
+Change Component Designator: OldDesignator=R8F NewDesignator=R8 12.6kF
+Change Component Designator: OldDesignator=R8G NewDesignator=R8 12.6kG
+Change Component Designator: OldDesignator=R8H NewDesignator=R8 12.6kH
+Added Component: Designator=R1 10kA(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R1 10kB(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R4 10kA(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R4 10kB(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R4 10kC(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R4 10kD(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R4 10kE(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R4 10kF(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R4 10kG(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R4 10kH(FP-RC1005-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD3.3 Pin=R1 10kA-2
+Added Pin To Net: NetName=VDD3.3 Pin=R1 10kB-2
+Added Pin To Net: NetName=Vout1 Pin=R4 10kA-2
+Added Pin To Net: NetName=Vout2 Pin=R4 10kB-2
+Added Pin To Net: NetName=Vout3 Pin=R4 10kC-2
+Added Pin To Net: NetName=Vout4 Pin=R4 10kD-2
+Added Pin To Net: NetName=Vout5 Pin=R4 10kE-2
+Added Pin To Net: NetName=Vout6 Pin=R4 10kF-2
+Added Pin To Net: NetName=Vout7 Pin=R4 10kG-2
+Added Pin To Net: NetName=Vout8 Pin=R4 10kH-2
+Added Pin To Net: NetName=GND Pin=U4A-21
+Added Pin To Net: NetName=GND Pin=U4B-21
+Added Pin To Net: NetName=GND Pin=U4C-21
+Added Pin To Net: NetName=GND Pin=U4D-21
+Added Pin To Net: NetName=GND Pin=U4E-21
+Added Pin To Net: NetName=GND Pin=U4F-21
+Added Pin To Net: NetName=GND Pin=U4G-21
+Added Pin To Net: NetName=GND Pin=U4H-21
+Added Pin To Net: NetName=GND Pin=U5A-21
+Added Pin To Net: NetName=GND Pin=U5B-21
+Change Net Name : Old Net Name=NetC8A_1 New Net Name=NetC8 0.1uFA_1
+Change Net Name : Old Net Name=NetC8B_1 New Net Name=NetC8 0.1uFB_1
+Change Net Name : Old Net Name=NetC22A_1 New Net Name=NetC22 0.1uFA_1
+Change Net Name : Old Net Name=NetC22B_1 New Net Name=NetC22 0.1uFB_1
+Change Net Name : Old Net Name=NetC22C_1 New Net Name=NetC22 0.1uFC_1
+Change Net Name : Old Net Name=NetC22D_1 New Net Name=NetC22 0.1uFD_1
+Change Net Name : Old Net Name=NetC22E_1 New Net Name=NetC22 0.1uFE_1
+Change Net Name : Old Net Name=NetC22F_1 New Net Name=NetC22 0.1uFF_1
+Change Net Name : Old Net Name=NetC22G_1 New Net Name=NetC22 0.1uFG_1
+Change Net Name : Old Net Name=NetC22H_1 New Net Name=NetC22 0.1uFH_1
+Change Net Name : Old Net Name=NetR2A_1 New Net Name=NetR2 75.3kA_1
+Change Net Name : Old Net Name=NetR2B_1 New Net Name=NetR2 75.3kB_1
+Change Net Name : Old Net Name=ResH3 New Net Name=ResH3B
+Added Pin To Net: NetName=NetR1 10kA_1 Pin=R1 10kA-1
+Added Pin To Net: NetName=NetR1 10kA_1 Pin=U5A-4
+Added Net: Name=NetR1 10kA_1
+Added Pin To Net: NetName=NetR1 10kB_1 Pin=R1 10kB-1
+Added Pin To Net: NetName=NetR1 10kB_1 Pin=U5B-4
+Added Net: Name=NetR1 10kB_1
+Added Pin To Net: NetName=NetR4 10kA_1 Pin=R4 10kA-1
+Added Pin To Net: NetName=NetR4 10kA_1 Pin=U4A-4
+Added Net: Name=NetR4 10kA_1
+Added Pin To Net: NetName=NetR4 10kB_1 Pin=R4 10kB-1
+Added Pin To Net: NetName=NetR4 10kB_1 Pin=U4B-4
+Added Net: Name=NetR4 10kB_1
+Added Pin To Net: NetName=NetR4 10kC_1 Pin=R4 10kC-1
+Added Pin To Net: NetName=NetR4 10kC_1 Pin=U4C-4
+Added Net: Name=NetR4 10kC_1
+Added Pin To Net: NetName=NetR4 10kD_1 Pin=R4 10kD-1
+Added Pin To Net: NetName=NetR4 10kD_1 Pin=U4D-4
+Added Net: Name=NetR4 10kD_1
+Added Pin To Net: NetName=NetR4 10kE_1 Pin=R4 10kE-1
+Added Pin To Net: NetName=NetR4 10kE_1 Pin=U4E-4
+Added Net: Name=NetR4 10kE_1
+Added Pin To Net: NetName=NetR4 10kF_1 Pin=R4 10kF-1
+Added Pin To Net: NetName=NetR4 10kF_1 Pin=U4F-4
+Added Net: Name=NetR4 10kF_1
+Added Pin To Net: NetName=NetR4 10kG_1 Pin=R4 10kG-1
+Added Pin To Net: NetName=NetR4 10kG_1 Pin=U4G-4
+Added Net: Name=NetR4 10kG_1
+Added Pin To Net: NetName=NetR4 10kH_1 Pin=R4 10kH-1
+Added Pin To Net: NetName=NetR4 10kH_1 Pin=U4H-4
+Added Net: Name=NetR4 10kH_1
+Added Member To Class: ClassName=U_LDO3.31 Member=Component R1 10kA (R1 10k) RC1005F103CS
+Added Member To Class: ClassName=U_LDO3.32 Member=Component R1 10kB (R1 10k) RC1005F103CS
+Added Member To Class: ClassName=U_ldo1 Member=Component R4 10kA (R4 10k) RC1005F103CS
+Added Member To Class: ClassName=U_ldo2 Member=Component R4 10kB (R4 10k) RC1005F103CS
+Added Member To Class: ClassName=U_ldo3 Member=Component R4 10kC (R4 10k) RC1005F103CS
+Added Member To Class: ClassName=U_ldo4 Member=Component R4 10kD (R4 10k) RC1005F103CS
+Added Member To Class: ClassName=U_ldo5 Member=Component R4 10kE (R4 10k) RC1005F103CS
+Added Member To Class: ClassName=U_ldo6 Member=Component R4 10kF (R4 10k) RC1005F103CS
+Added Member To Class: ClassName=U_ldo7 Member=Component R4 10kG (R4 10k) RC1005F103CS
+Added Member To Class: ClassName=U_ldo8 Member=Component R4 10kH (R4 10k) RC1005F103CS

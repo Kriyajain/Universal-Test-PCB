@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VDD3.3 Pin=R2 75.3kA-2
+Removed Pin From Net: NetName=VDD3.3 Pin=R2 75.3kB-2
+Removed Pin From Net: NetName=GND Pin=R3 24.3kA-1
+Removed Pin From Net: NetName=GND Pin=R3 24.3kB-1
+Removed Member From Class: ClassName=U_LDO3.31 Member=R2 75.3kA
+Removed Member From Class: ClassName=U_LDO3.32 Member=R2 75.3kB
+Removed Member From Class: ClassName=U_LDO3.31 Member=R3 24.3kA
+Removed Member From Class: ClassName=U_LDO3.32 Member=R3 24.3kB
+Added Pin To Net: NetName=VDD3.3 Pin=U5A-2
+Added Pin To Net: NetName=GND Pin=U5A-6
+Added Pin To Net: NetName=GND Pin=U5A-10
+Added Pin To Net: NetName=GND Pin=U5A-11
+Added Pin To Net: NetName=VDD3.3 Pin=U5B-2
+Added Pin To Net: NetName=GND Pin=U5B-6
+Added Pin To Net: NetName=GND Pin=U5B-10
+Added Pin To Net: NetName=GND Pin=U5B-11

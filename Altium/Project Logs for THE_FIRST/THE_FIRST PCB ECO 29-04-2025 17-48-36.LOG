@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=CLK Pin=R1 1k-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R1 1k-2
+Removed Pin From Net: NetName=SDI Pin=R2 1k-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R2 1k-2
+Removed Pin From Net: NetName=SDI Pin=R3 1k-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R3 1k-2
+Removed Pin From Net: NetName=CLK Pin=R4 1k-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R4 1k-2
+Removed Pin From Net: NetName=CLK Pin=U2-JP1_4
+Removed Pin From Net: NetName=SDI Pin=U2-JP1_6
+Removed Pin From Net: NetName=SDI Pin=U2-JP1_38
+Removed Pin From Net: NetName=CLK Pin=U2-JP1_40
+Removed Pin From Net: NetName=CLK Pin=U9A-12
+Removed Pin From Net: NetName=RESETA2 Pin=U9A-14
+Removed Pin From Net: NetName=CLK Pin=U9B-12
+Removed Pin From Net: NetName=RESETA1 Pin=U9B-14
+Removed Member From Class: ClassName=THE_FIRST Member=R1 1k
+Removed Member From Class: ClassName=THE_FIRST Member=R2 1k
+Removed Member From Class: ClassName=THE_FIRST Member=R3 1k
+Removed Member From Class: ClassName=THE_FIRST Member=R4 1k
+Added Pin To Net: NetName=CLK1 Pin=U2-JP1_40
+Added Pin To Net: NetName=CLK1 Pin=U9B-12
+Added Net: Name=CLK1
+Added Pin To Net: NetName=CLK2 Pin=U2-JP1_4
+Added Pin To Net: NetName=CLK2 Pin=U9A-12
+Added Net: Name=CLK2
+Added Pin To Net: NetName=SDI1 Pin=U2-JP1_38
+Added Net: Name=SDI1
+Added Pin To Net: NetName=SDI2 Pin=U2-JP1_6
+Added Net: Name=SDI2
+Added Member To Class: ClassName=U_LDO3.32 Member=Component C8 0.1uFB (C8 0.1uF) C0805C104K4RAC

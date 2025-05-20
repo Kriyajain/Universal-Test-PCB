@@ -1,0 +1,35 @@
+Added Component: Designator=U?(MODULE_P0082_BOTTOMMOUNT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/P0082/Terasic+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Terasic Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "P0082"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/P0082/Terasic+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE_P0082_BOTTOMMOUNT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/P0082/Terasic+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Terasic Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "P0082"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/P0082/Terasic+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_fpga Pin=U?-JP1_11
+Added Pin To Net: NetName=GND Pin=U?-JP1_12
+Added Pin To Net: NetName=VDD3.3_fpga Pin=U?-JP1_29
+Added Pin To Net: NetName=GND Pin=U?-JP1_30
+Added Pin To Net: NetName=DOUT1B Pin=U?-JP1_34
+Added Pin To Net: NetName=SC2B Pin=U?-JP1_35
+Added Pin To Net: NetName=SC3B Pin=U?-JP1_37
+Added Pin To Net: NetName=SC1B Pin=U?-JP1_39
+Added Pin To Net: NetName=CLK2 Pin=U?-JP2_4
+Added Pin To Net: NetName=SDI2 Pin=U?-JP2_6
+Added Pin To Net: NetName=RESETA2 Pin=U?-JP2_8
+Added Pin To Net: NetName=CSA2 Pin=U?-JP2_10
+Added Pin To Net: NetName=VDD_fpga Pin=U?-JP2_11
+Added Pin To Net: NetName=GND Pin=U?-JP2_12
+Added Pin To Net: NetName=GND Pin=U?-JP2_30
+Added Pin To Net: NetName=RESETA1 Pin=U?-JP2_34
+Added Pin To Net: NetName=CSA1 Pin=U?-JP2_36
+Added Pin To Net: NetName=SDI1 Pin=U?-JP2_38
+Added Pin To Net: NetName=CLK1 Pin=U?-JP2_40
+Added Member To Class: ClassName=THE_FIRST Member=Component U? P0082_BOTTOMMOUNT
+Added Member To Class: ClassName=THE_FIRST Member=Component U? P0082_BOTTOMMOUNT

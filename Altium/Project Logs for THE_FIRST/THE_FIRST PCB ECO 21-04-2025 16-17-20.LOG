@@ -1,0 +1,52 @@
+Added Component: Designator=J12(JST_B6B-PH-K-S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B6B-PH-K-S/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B6B-PH-K-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B6B-PH-K-S/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J34(JST_B6B-PH-K-S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B6B-PH-K-S/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B6B-PH-K-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B6B-PH-K-S/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SC1 Pin=J34-1
+Added Pin To Net: NetName=SC1 Pin=U2-JP2_4
+Added Net: Name=SC1
+Added Pin To Net: NetName=SC2 Pin=J34-2
+Added Pin To Net: NetName=SC2 Pin=U2-JP2_6
+Added Net: Name=SC2
+Added Pin To Net: NetName=SC3 Pin=J34-3
+Added Pin To Net: NetName=SC3 Pin=U2-JP2_8
+Added Net: Name=SC3
+Added Pin To Net: NetName=SC4 Pin=J34-4
+Added Pin To Net: NetName=SC4 Pin=U2-JP2_10
+Added Net: Name=SC4
+Added Pin To Net: NetName=SC5 Pin=J34-5
+Added Pin To Net: NetName=SC5 Pin=U2-JP2_14
+Added Net: Name=SC5
+Added Pin To Net: NetName=SC6 Pin=J34-6
+Added Pin To Net: NetName=SC6 Pin=U2-JP2_16
+Added Net: Name=SC6
+Added Pin To Net: NetName=SC7 Pin=J12-1
+Added Pin To Net: NetName=SC7 Pin=U2-JP2_18
+Added Net: Name=SC7
+Added Pin To Net: NetName=SC8 Pin=J12-2
+Added Pin To Net: NetName=SC8 Pin=U2-JP2_20
+Added Net: Name=SC8
+Added Pin To Net: NetName=SC9 Pin=J12-3
+Added Pin To Net: NetName=SC9 Pin=U2-JP2_22
+Added Net: Name=SC9
+Added Pin To Net: NetName=SC10 Pin=J12-4
+Added Pin To Net: NetName=SC10 Pin=U2-JP2_24
+Added Net: Name=SC10
+Added Pin To Net: NetName=SC11 Pin=J12-5
+Added Pin To Net: NetName=SC11 Pin=U2-JP2_26
+Added Net: Name=SC11
+Added Pin To Net: NetName=SC12 Pin=J12-6
+Added Pin To Net: NetName=SC12 Pin=U2-JP2_28
+Added Net: Name=SC12
+Added Member To Class: ClassName=THE_FIRST Member=Component J12 B6B-PH-K-S
+Added Member To Class: ClassName=THE_FIRST Member=Component J34 B6B-PH-K-S

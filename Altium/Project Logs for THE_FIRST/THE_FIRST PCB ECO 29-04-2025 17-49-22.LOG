@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SDI2 Pin=U3A-11
+Added Pin To Net: NetName=CLK2 Pin=U3A-12
+Added Pin To Net: NetName=SDI1 Pin=U3B-11
+Added Pin To Net: NetName=CLK1 Pin=U3B-12

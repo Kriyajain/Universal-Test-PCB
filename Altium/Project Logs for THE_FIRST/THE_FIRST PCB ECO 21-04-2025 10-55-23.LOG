@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ResH2 Pin=U3B-2
+Removed Pin From Net: NetName=Voutr1 Pin=U3B-3
+Removed Pin From Net: NetName=Voutr2 Pin=U3B-19
+Removed Pin From Net: NetName=ResH1 Pin=U3B-20
+Added Pin To Net: NetName=ResH1 Pin=U3B-2
+Added Pin To Net: NetName=Voutr2 Pin=U3B-3
+Added Pin To Net: NetName=Voutr1 Pin=U3B-19
+Added Pin To Net: NetName=ResH2 Pin=U3B-20

@@ -1,0 +1,1208 @@
+Removed Pin From Net: NetName=GND Pin=C6A-1
+Removed Pin From Net: NetName=Vout1 Pin=C6A-2
+Removed Pin From Net: NetName=GND Pin=C6B-1
+Removed Pin From Net: NetName=Vout2 Pin=C6B-2
+Removed Pin From Net: NetName=GND Pin=C6C-1
+Removed Pin From Net: NetName=Vout3 Pin=C6C-2
+Removed Pin From Net: NetName=GND Pin=C6D-1
+Removed Pin From Net: NetName=Vout4 Pin=C6D-2
+Removed Pin From Net: NetName=GND Pin=C6E-1
+Removed Pin From Net: NetName=Vout5 Pin=C6E-2
+Removed Pin From Net: NetName=GND Pin=C6F-1
+Removed Pin From Net: NetName=Vout6 Pin=C6F-2
+Removed Pin From Net: NetName=GND Pin=C6G-1
+Removed Pin From Net: NetName=Vout7 Pin=C6G-2
+Removed Pin From Net: NetName=GND Pin=C6H-1
+Removed Pin From Net: NetName=Vout8 Pin=C6H-2
+Removed Pin From Net: NetName=GND Pin=C13A-1
+Removed Pin From Net: NetName=VDD Pin=C13A-2
+Removed Pin From Net: NetName=GND Pin=C13B-1
+Removed Pin From Net: NetName=VDD Pin=C13B-2
+Removed Pin From Net: NetName=GND Pin=C13C-1
+Removed Pin From Net: NetName=VDD Pin=C13C-2
+Removed Pin From Net: NetName=GND Pin=C13D-1
+Removed Pin From Net: NetName=VDD Pin=C13D-2
+Removed Pin From Net: NetName=GND Pin=C13E-1
+Removed Pin From Net: NetName=VDD Pin=C13E-2
+Removed Pin From Net: NetName=GND Pin=C13F-1
+Removed Pin From Net: NetName=VDD Pin=C13F-2
+Removed Pin From Net: NetName=GND Pin=C13G-1
+Removed Pin From Net: NetName=VDD Pin=C13G-2
+Removed Pin From Net: NetName=GND Pin=C13H-1
+Removed Pin From Net: NetName=VDD Pin=C13H-2
+Removed Pin From Net: NetName=GND Pin=C14A-1
+Removed Pin From Net: NetName=Vout1 Pin=C14A-2
+Removed Pin From Net: NetName=GND Pin=C14B-1
+Removed Pin From Net: NetName=Vout2 Pin=C14B-2
+Removed Pin From Net: NetName=GND Pin=C14C-1
+Removed Pin From Net: NetName=Vout3 Pin=C14C-2
+Removed Pin From Net: NetName=GND Pin=C14D-1
+Removed Pin From Net: NetName=Vout4 Pin=C14D-2
+Removed Pin From Net: NetName=GND Pin=C14E-1
+Removed Pin From Net: NetName=Vout5 Pin=C14E-2
+Removed Pin From Net: NetName=GND Pin=C14F-1
+Removed Pin From Net: NetName=Vout6 Pin=C14F-2
+Removed Pin From Net: NetName=GND Pin=C14G-1
+Removed Pin From Net: NetName=Vout7 Pin=C14G-2
+Removed Pin From Net: NetName=GND Pin=C14H-1
+Removed Pin From Net: NetName=Vout8 Pin=C14H-2
+Removed Pin From Net: NetName=GND Pin=C18A-1
+Removed Pin From Net: NetName=VDD Pin=C18A-2
+Removed Pin From Net: NetName=GND Pin=C18B-1
+Removed Pin From Net: NetName=VDD Pin=C18B-2
+Removed Pin From Net: NetName=GND Pin=C18C-1
+Removed Pin From Net: NetName=VDD Pin=C18C-2
+Removed Pin From Net: NetName=GND Pin=C18D-1
+Removed Pin From Net: NetName=VDD Pin=C18D-2
+Removed Pin From Net: NetName=GND Pin=C18E-1
+Removed Pin From Net: NetName=VDD Pin=C18E-2
+Removed Pin From Net: NetName=GND Pin=C18F-1
+Removed Pin From Net: NetName=VDD Pin=C18F-2
+Removed Pin From Net: NetName=GND Pin=C18G-1
+Removed Pin From Net: NetName=VDD Pin=C18G-2
+Removed Pin From Net: NetName=GND Pin=C18H-1
+Removed Pin From Net: NetName=VDD Pin=C18H-2
+Removed Pin From Net: NetName=GND Pin=C22A-1
+Removed Pin From Net: NetName=GND Pin=C22B-1
+Removed Pin From Net: NetName=GND Pin=C22C-1
+Removed Pin From Net: NetName=GND Pin=C22D-1
+Removed Pin From Net: NetName=GND Pin=C22E-1
+Removed Pin From Net: NetName=GND Pin=C22F-1
+Removed Pin From Net: NetName=GND Pin=C22G-1
+Removed Pin From Net: NetName=GND Pin=C22H-1
+Change Component Footprint: Designator=C13A Old Footprint=CAPC1206(3216)190_M New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C13B Old Footprint=CAPC1206(3216)190_M New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C13C Old Footprint=CAPC1206(3216)190_M New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C13D Old Footprint=CAPC1206(3216)190_M New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C13E Old Footprint=CAPC1206(3216)190_M New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C13F Old Footprint=CAPC1206(3216)190_M New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C13G Old Footprint=CAPC1206(3216)190_M New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C13H Old Footprint=CAPC1206(3216)190_M New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C6A Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C6B Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C6C Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C6D Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C6E Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C6F Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C6G Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C6H Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C18A Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C18B Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C18C Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C18D Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C18E Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C18F Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C18G Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C18H Old Footprint=CAPC1210(3225)115_M New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C22A Old Footprint=CAPC2013X140X50NL20T25 New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C22B Old Footprint=CAPC2013X140X50NL20T25 New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C22C Old Footprint=CAPC2013X140X50NL20T25 New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C22D Old Footprint=CAPC2013X140X50NL20T25 New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C22E Old Footprint=CAPC2013X140X50NL20T25 New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C22F Old Footprint=CAPC2013X140X50NL20T25 New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C22G Old Footprint=CAPC2013X140X50NL20T25 New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C22H Old Footprint=CAPC2013X140X50NL20T25 New Footprint=FP-C0805C-DN-MFG
+Change Component Footprint: Designator=C14A Old Footprint=CAPC3225X270X30LL30 New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C14B Old Footprint=CAPC3225X270X30LL30 New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C14C Old Footprint=CAPC3225X270X30LL30 New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C14D Old Footprint=CAPC3225X270X30LL30 New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C14E Old Footprint=CAPC3225X270X30LL30 New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C14F Old Footprint=CAPC3225X270X30LL30 New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C14G Old Footprint=CAPC3225X270X30LL30 New Footprint=FP-CL21-IPC_C
+Change Component Footprint: Designator=C14H Old Footprint=CAPC3225X270X30LL30 New Footprint=FP-CL21-IPC_C
+Change Component Comment : Designator=C22A Old Comment=C0805C105J4RACTU New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C22B Old Comment=C0805C105J4RACTU New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C22C Old Comment=C0805C105J4RACTU New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C22D Old Comment=C0805C105J4RACTU New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C22E Old Comment=C0805C105J4RACTU New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C22F Old Comment=C0805C105J4RACTU New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C22G Old Comment=C0805C105J4RACTU New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C22H Old Comment=C0805C105J4RACTU New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C13A Old Comment=CAP 10uF 16V 1206(3216) New Comment=CL21A106KOQNNNG
+Change Component Comment : Designator=C13B Old Comment=CAP 10uF 16V 1206(3216) New Comment=CL21A106KOQNNNG
+Change Component Comment : Designator=C13C Old Comment=CAP 10uF 16V 1206(3216) New Comment=CL21A106KOQNNNG
+Change Component Comment : Designator=C13D Old Comment=CAP 10uF 16V 1206(3216) New Comment=CL21A106KOQNNNG
+Change Component Comment : Designator=C13E Old Comment=CAP 10uF 16V 1206(3216) New Comment=CL21A106KOQNNNG
+Change Component Comment : Designator=C13F Old Comment=CAP 10uF 16V 1206(3216) New Comment=CL21A106KOQNNNG
+Change Component Comment : Designator=C13G Old Comment=CAP 10uF 16V 1206(3216) New Comment=CL21A106KOQNNNG
+Change Component Comment : Designator=C13H Old Comment=CAP 10uF 16V 1206(3216) New Comment=CL21A106KOQNNNG
+Change Component Comment : Designator=C6A Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C6B Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C6C Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C6D Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C6E Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C6F Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C6G Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C6H Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C18A Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C18B Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C18C Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C18D Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C18E Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C18F Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C18G Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C18H Old Comment=CAP 100nF 16V 1210(3225) New Comment=C0805C104K4RAC
+Change Component Comment : Designator=C14A Old Comment=GRM32ER71C226KE18L New Comment=CL21A226MOCLRNC
+Change Component Comment : Designator=C14B Old Comment=GRM32ER71C226KE18L New Comment=CL21A226MOCLRNC
+Change Component Comment : Designator=C14C Old Comment=GRM32ER71C226KE18L New Comment=CL21A226MOCLRNC
+Change Component Comment : Designator=C14D Old Comment=GRM32ER71C226KE18L New Comment=CL21A226MOCLRNC
+Change Component Comment : Designator=C14E Old Comment=GRM32ER71C226KE18L New Comment=CL21A226MOCLRNC
+Change Component Comment : Designator=C14F Old Comment=GRM32ER71C226KE18L New Comment=CL21A226MOCLRNC
+Change Component Comment : Designator=C14G Old Comment=GRM32ER71C226KE18L New Comment=CL21A226MOCLRNC
+Change Component Comment : Designator=C14H Old Comment=GRM32ER71C226KE18L New Comment=CL21A226MOCLRNC
+Change Managed Component Library Link : Designator=C6A Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C6B Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C6C Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C6D Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C6E Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C6F Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C6G Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C6H Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C13A Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BC20AA5C-4C82-497D-B797-E39684645BED New ItemGUID=E3758622-ECE8-4288-8503-C49F7EEF7236 Old RevisionGUID=47C6F3E4-5B7E-40D0-B2FC-7763D8DE9518 New RevisionGUID=7D88EBDD-D906-49DE-B454-67F435A3623E
+Change Managed Component Library Link : Designator=C13B Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BC20AA5C-4C82-497D-B797-E39684645BED New ItemGUID=E3758622-ECE8-4288-8503-C49F7EEF7236 Old RevisionGUID=47C6F3E4-5B7E-40D0-B2FC-7763D8DE9518 New RevisionGUID=7D88EBDD-D906-49DE-B454-67F435A3623E
+Change Managed Component Library Link : Designator=C13C Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BC20AA5C-4C82-497D-B797-E39684645BED New ItemGUID=E3758622-ECE8-4288-8503-C49F7EEF7236 Old RevisionGUID=47C6F3E4-5B7E-40D0-B2FC-7763D8DE9518 New RevisionGUID=7D88EBDD-D906-49DE-B454-67F435A3623E
+Change Managed Component Library Link : Designator=C13D Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BC20AA5C-4C82-497D-B797-E39684645BED New ItemGUID=E3758622-ECE8-4288-8503-C49F7EEF7236 Old RevisionGUID=47C6F3E4-5B7E-40D0-B2FC-7763D8DE9518 New RevisionGUID=7D88EBDD-D906-49DE-B454-67F435A3623E
+Change Managed Component Library Link : Designator=C13E Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BC20AA5C-4C82-497D-B797-E39684645BED New ItemGUID=E3758622-ECE8-4288-8503-C49F7EEF7236 Old RevisionGUID=47C6F3E4-5B7E-40D0-B2FC-7763D8DE9518 New RevisionGUID=7D88EBDD-D906-49DE-B454-67F435A3623E
+Change Managed Component Library Link : Designator=C13F Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BC20AA5C-4C82-497D-B797-E39684645BED New ItemGUID=E3758622-ECE8-4288-8503-C49F7EEF7236 Old RevisionGUID=47C6F3E4-5B7E-40D0-B2FC-7763D8DE9518 New RevisionGUID=7D88EBDD-D906-49DE-B454-67F435A3623E
+Change Managed Component Library Link : Designator=C13G Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BC20AA5C-4C82-497D-B797-E39684645BED New ItemGUID=E3758622-ECE8-4288-8503-C49F7EEF7236 Old RevisionGUID=47C6F3E4-5B7E-40D0-B2FC-7763D8DE9518 New RevisionGUID=7D88EBDD-D906-49DE-B454-67F435A3623E
+Change Managed Component Library Link : Designator=C13H Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BC20AA5C-4C82-497D-B797-E39684645BED New ItemGUID=E3758622-ECE8-4288-8503-C49F7EEF7236 Old RevisionGUID=47C6F3E4-5B7E-40D0-B2FC-7763D8DE9518 New RevisionGUID=7D88EBDD-D906-49DE-B454-67F435A3623E
+Change Managed Component Library Link : Designator=C14A Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2D5B28C9-592D-4023-9F32-C2F581F9E3BA New ItemGUID=FC0A94A1-EDF8-4EAF-98A3-EBF1CE16CA04 Old RevisionGUID=50F2BD70-A888-43B9-B7C2-958E81FA09D9 New RevisionGUID=286F422A-ECD5-480F-9B39-20700F12672B
+Change Managed Component Library Link : Designator=C14B Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2D5B28C9-592D-4023-9F32-C2F581F9E3BA New ItemGUID=FC0A94A1-EDF8-4EAF-98A3-EBF1CE16CA04 Old RevisionGUID=50F2BD70-A888-43B9-B7C2-958E81FA09D9 New RevisionGUID=286F422A-ECD5-480F-9B39-20700F12672B
+Change Managed Component Library Link : Designator=C14C Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2D5B28C9-592D-4023-9F32-C2F581F9E3BA New ItemGUID=FC0A94A1-EDF8-4EAF-98A3-EBF1CE16CA04 Old RevisionGUID=50F2BD70-A888-43B9-B7C2-958E81FA09D9 New RevisionGUID=286F422A-ECD5-480F-9B39-20700F12672B
+Change Managed Component Library Link : Designator=C14D Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2D5B28C9-592D-4023-9F32-C2F581F9E3BA New ItemGUID=FC0A94A1-EDF8-4EAF-98A3-EBF1CE16CA04 Old RevisionGUID=50F2BD70-A888-43B9-B7C2-958E81FA09D9 New RevisionGUID=286F422A-ECD5-480F-9B39-20700F12672B
+Change Managed Component Library Link : Designator=C14E Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2D5B28C9-592D-4023-9F32-C2F581F9E3BA New ItemGUID=FC0A94A1-EDF8-4EAF-98A3-EBF1CE16CA04 Old RevisionGUID=50F2BD70-A888-43B9-B7C2-958E81FA09D9 New RevisionGUID=286F422A-ECD5-480F-9B39-20700F12672B
+Change Managed Component Library Link : Designator=C14F Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2D5B28C9-592D-4023-9F32-C2F581F9E3BA New ItemGUID=FC0A94A1-EDF8-4EAF-98A3-EBF1CE16CA04 Old RevisionGUID=50F2BD70-A888-43B9-B7C2-958E81FA09D9 New RevisionGUID=286F422A-ECD5-480F-9B39-20700F12672B
+Change Managed Component Library Link : Designator=C14G Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2D5B28C9-592D-4023-9F32-C2F581F9E3BA New ItemGUID=FC0A94A1-EDF8-4EAF-98A3-EBF1CE16CA04 Old RevisionGUID=50F2BD70-A888-43B9-B7C2-958E81FA09D9 New RevisionGUID=286F422A-ECD5-480F-9B39-20700F12672B
+Change Managed Component Library Link : Designator=C14H Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2D5B28C9-592D-4023-9F32-C2F581F9E3BA New ItemGUID=FC0A94A1-EDF8-4EAF-98A3-EBF1CE16CA04 Old RevisionGUID=50F2BD70-A888-43B9-B7C2-958E81FA09D9 New RevisionGUID=286F422A-ECD5-480F-9B39-20700F12672B
+Change Managed Component Library Link : Designator=C18A Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C18B Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C18C Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C18D Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C18E Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C18F Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C18G Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C18H Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E05F43D4-BD1B-4BE6-A32F-BA31CA01800D New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=881429BF-E439-4555-9644-B69DCDEE3B0C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C22A Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6176EB1B-6644-4C1A-93BD-F3E1CF260D31 New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=A9ADD23E-DDE2-4C7B-99AE-2FFE9F61422C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C22B Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6176EB1B-6644-4C1A-93BD-F3E1CF260D31 New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=A9ADD23E-DDE2-4C7B-99AE-2FFE9F61422C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C22C Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6176EB1B-6644-4C1A-93BD-F3E1CF260D31 New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=A9ADD23E-DDE2-4C7B-99AE-2FFE9F61422C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C22D Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6176EB1B-6644-4C1A-93BD-F3E1CF260D31 New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=A9ADD23E-DDE2-4C7B-99AE-2FFE9F61422C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C22E Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6176EB1B-6644-4C1A-93BD-F3E1CF260D31 New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=A9ADD23E-DDE2-4C7B-99AE-2FFE9F61422C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C22F Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6176EB1B-6644-4C1A-93BD-F3E1CF260D31 New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=A9ADD23E-DDE2-4C7B-99AE-2FFE9F61422C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C22G Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6176EB1B-6644-4C1A-93BD-F3E1CF260D31 New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=A9ADD23E-DDE2-4C7B-99AE-2FFE9F61422C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change Managed Component Library Link : Designator=C22H Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6176EB1B-6644-4C1A-93BD-F3E1CF260D31 New ItemGUID=1BE14707-055B-4C36-9369-A6A54276F652 Old RevisionGUID=A9ADD23E-DDE2-4C7B-99AE-2FFE9F61422C New RevisionGUID=B576BF6F-72B9-4174-8E0F-2D13FF0D47C1
+Change component parameters: Designator = "C6A" ("C6"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\1XGNZIDQP\RQSEQUGF" ("\1XGNZIDQP\RQSEQUGF")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6B" ("C6"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\2XGNZIDQP\RQSEQUGF" ("\2XGNZIDQP\RQSEQUGF")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6C" ("C6"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\3XGNZIDQP\RQSEQUGF" ("\3XGNZIDQP\RQSEQUGF")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6D" ("C6"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\4XGNZIDQP\RQSEQUGF" ("\4XGNZIDQP\RQSEQUGF")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6E" ("C6"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\5XGNZIDQP\RQSEQUGF" ("\5XGNZIDQP\RQSEQUGF")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6F" ("C6"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\6XGNZIDQP\RQSEQUGF" ("\6XGNZIDQP\RQSEQUGF")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6G" ("C6"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\7XGNZIDQP\RQSEQUGF" ("\7XGNZIDQP\RQSEQUGF")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6H" ("C6"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\8XGNZIDQP\RQSEQUGF" ("\8XGNZIDQP\RQSEQUGF")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13A" ("C13"); Footprint = "CAPC1206(3216)190_M"; UniqueID = "\1XGNZIDQP\WZIPYLQS" ("\1XGNZIDQP\WZIPYLQS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13B" ("C13"); Footprint = "CAPC1206(3216)190_M"; UniqueID = "\2XGNZIDQP\WZIPYLQS" ("\2XGNZIDQP\WZIPYLQS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13C" ("C13"); Footprint = "CAPC1206(3216)190_M"; UniqueID = "\3XGNZIDQP\WZIPYLQS" ("\3XGNZIDQP\WZIPYLQS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13D" ("C13"); Footprint = "CAPC1206(3216)190_M"; UniqueID = "\4XGNZIDQP\WZIPYLQS" ("\4XGNZIDQP\WZIPYLQS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13E" ("C13"); Footprint = "CAPC1206(3216)190_M"; UniqueID = "\5XGNZIDQP\WZIPYLQS" ("\5XGNZIDQP\WZIPYLQS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13F" ("C13"); Footprint = "CAPC1206(3216)190_M"; UniqueID = "\6XGNZIDQP\WZIPYLQS" ("\6XGNZIDQP\WZIPYLQS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13G" ("C13"); Footprint = "CAPC1206(3216)190_M"; UniqueID = "\7XGNZIDQP\WZIPYLQS" ("\7XGNZIDQP\WZIPYLQS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13H" ("C13"); Footprint = "CAPC1206(3216)190_M"; UniqueID = "\8XGNZIDQP\WZIPYLQS" ("\8XGNZIDQP\WZIPYLQS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14A" ("C14"); Footprint = "CAPC3225X270X30LL30"; UniqueID = "\1XGNZIDQP\AARCQBPX" ("\1XGNZIDQP\AARCQBPX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14B" ("C14"); Footprint = "CAPC3225X270X30LL30"; UniqueID = "\2XGNZIDQP\AARCQBPX" ("\2XGNZIDQP\AARCQBPX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14C" ("C14"); Footprint = "CAPC3225X270X30LL30"; UniqueID = "\3XGNZIDQP\AARCQBPX" ("\3XGNZIDQP\AARCQBPX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14D" ("C14"); Footprint = "CAPC3225X270X30LL30"; UniqueID = "\4XGNZIDQP\AARCQBPX" ("\4XGNZIDQP\AARCQBPX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14E" ("C14"); Footprint = "CAPC3225X270X30LL30"; UniqueID = "\5XGNZIDQP\AARCQBPX" ("\5XGNZIDQP\AARCQBPX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14F" ("C14"); Footprint = "CAPC3225X270X30LL30"; UniqueID = "\6XGNZIDQP\AARCQBPX" ("\6XGNZIDQP\AARCQBPX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14G" ("C14"); Footprint = "CAPC3225X270X30LL30"; UniqueID = "\7XGNZIDQP\AARCQBPX" ("\7XGNZIDQP\AARCQBPX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14H" ("C14"); Footprint = "CAPC3225X270X30LL30"; UniqueID = "\8XGNZIDQP\AARCQBPX" ("\8XGNZIDQP\AARCQBPX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.037inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18A" ("C18"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\1XGNZIDQP\NHIVVQFD" ("\1XGNZIDQP\NHIVVQFD")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18B" ("C18"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\2XGNZIDQP\NHIVVQFD" ("\2XGNZIDQP\NHIVVQFD")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18C" ("C18"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\3XGNZIDQP\NHIVVQFD" ("\3XGNZIDQP\NHIVVQFD")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18D" ("C18"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\4XGNZIDQP\NHIVVQFD" ("\4XGNZIDQP\NHIVVQFD")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18E" ("C18"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\5XGNZIDQP\NHIVVQFD" ("\5XGNZIDQP\NHIVVQFD")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18F" ("C18"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\6XGNZIDQP\NHIVVQFD" ("\6XGNZIDQP\NHIVVQFD")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18G" ("C18"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\7XGNZIDQP\NHIVVQFD" ("\7XGNZIDQP\NHIVVQFD")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18H" ("C18"); Footprint = "CAPC1210(3225)115_M"; UniqueID = "\8XGNZIDQP\NHIVVQFD" ("\8XGNZIDQP\NHIVVQFD")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22A" ("C22"); Footprint = "CAPC2013X140X50NL20T25"; UniqueID = "\1XGNZIDQP\QYFOEBBG" ("\1XGNZIDQP\QYFOEBBG")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22B" ("C22"); Footprint = "CAPC2013X140X50NL20T25"; UniqueID = "\2XGNZIDQP\QYFOEBBG" ("\2XGNZIDQP\QYFOEBBG")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22C" ("C22"); Footprint = "CAPC2013X140X50NL20T25"; UniqueID = "\3XGNZIDQP\QYFOEBBG" ("\3XGNZIDQP\QYFOEBBG")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22D" ("C22"); Footprint = "CAPC2013X140X50NL20T25"; UniqueID = "\4XGNZIDQP\QYFOEBBG" ("\4XGNZIDQP\QYFOEBBG")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22E" ("C22"); Footprint = "CAPC2013X140X50NL20T25"; UniqueID = "\5XGNZIDQP\QYFOEBBG" ("\5XGNZIDQP\QYFOEBBG")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22F" ("C22"); Footprint = "CAPC2013X140X50NL20T25"; UniqueID = "\6XGNZIDQP\QYFOEBBG" ("\6XGNZIDQP\QYFOEBBG")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22G" ("C22"); Footprint = "CAPC2013X140X50NL20T25"; UniqueID = "\7XGNZIDQP\QYFOEBBG" ("\7XGNZIDQP\QYFOEBBG")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22H" ("C22"); Footprint = "CAPC2013X140X50NL20T25"; UniqueID = "\8XGNZIDQP\QYFOEBBG" ("\8XGNZIDQP\QYFOEBBG")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0805 125C Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c104k4rac-kemet-1343167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vout1 Pin=C6A-1
+Added Pin To Net: NetName=GND Pin=C6A-2
+Added Pin To Net: NetName=Vout2 Pin=C6B-1
+Added Pin To Net: NetName=GND Pin=C6B-2
+Added Pin To Net: NetName=Vout3 Pin=C6C-1
+Added Pin To Net: NetName=GND Pin=C6C-2
+Added Pin To Net: NetName=Vout4 Pin=C6D-1
+Added Pin To Net: NetName=GND Pin=C6D-2
+Added Pin To Net: NetName=Vout5 Pin=C6E-1
+Added Pin To Net: NetName=GND Pin=C6E-2
+Added Pin To Net: NetName=Vout6 Pin=C6F-1
+Added Pin To Net: NetName=GND Pin=C6F-2
+Added Pin To Net: NetName=Vout7 Pin=C6G-1
+Added Pin To Net: NetName=GND Pin=C6G-2
+Added Pin To Net: NetName=Vout8 Pin=C6H-1
+Added Pin To Net: NetName=GND Pin=C6H-2
+Added Pin To Net: NetName=VDD Pin=C13A-1
+Added Pin To Net: NetName=GND Pin=C13A-2
+Added Pin To Net: NetName=VDD Pin=C13B-1
+Added Pin To Net: NetName=GND Pin=C13B-2
+Added Pin To Net: NetName=VDD Pin=C13C-1
+Added Pin To Net: NetName=GND Pin=C13C-2
+Added Pin To Net: NetName=VDD Pin=C13D-1
+Added Pin To Net: NetName=GND Pin=C13D-2
+Added Pin To Net: NetName=VDD Pin=C13E-1
+Added Pin To Net: NetName=GND Pin=C13E-2
+Added Pin To Net: NetName=VDD Pin=C13F-1
+Added Pin To Net: NetName=GND Pin=C13F-2
+Added Pin To Net: NetName=VDD Pin=C13G-1
+Added Pin To Net: NetName=GND Pin=C13G-2
+Added Pin To Net: NetName=VDD Pin=C13H-1
+Added Pin To Net: NetName=GND Pin=C13H-2
+Added Pin To Net: NetName=Vout1 Pin=C14A-1
+Added Pin To Net: NetName=GND Pin=C14A-2
+Added Pin To Net: NetName=Vout2 Pin=C14B-1
+Added Pin To Net: NetName=GND Pin=C14B-2
+Added Pin To Net: NetName=Vout3 Pin=C14C-1
+Added Pin To Net: NetName=GND Pin=C14C-2
+Added Pin To Net: NetName=Vout4 Pin=C14D-1
+Added Pin To Net: NetName=GND Pin=C14D-2
+Added Pin To Net: NetName=Vout5 Pin=C14E-1
+Added Pin To Net: NetName=GND Pin=C14E-2
+Added Pin To Net: NetName=Vout6 Pin=C14F-1
+Added Pin To Net: NetName=GND Pin=C14F-2
+Added Pin To Net: NetName=Vout7 Pin=C14G-1
+Added Pin To Net: NetName=GND Pin=C14G-2
+Added Pin To Net: NetName=Vout8 Pin=C14H-1
+Added Pin To Net: NetName=GND Pin=C14H-2
+Added Pin To Net: NetName=VDD Pin=C18A-1
+Added Pin To Net: NetName=GND Pin=C18A-2
+Added Pin To Net: NetName=VDD Pin=C18B-1
+Added Pin To Net: NetName=GND Pin=C18B-2
+Added Pin To Net: NetName=VDD Pin=C18C-1
+Added Pin To Net: NetName=GND Pin=C18C-2
+Added Pin To Net: NetName=VDD Pin=C18D-1
+Added Pin To Net: NetName=GND Pin=C18D-2
+Added Pin To Net: NetName=VDD Pin=C18E-1
+Added Pin To Net: NetName=GND Pin=C18E-2
+Added Pin To Net: NetName=VDD Pin=C18F-1
+Added Pin To Net: NetName=GND Pin=C18F-2
+Added Pin To Net: NetName=VDD Pin=C18G-1
+Added Pin To Net: NetName=GND Pin=C18G-2
+Added Pin To Net: NetName=VDD Pin=C18H-1
+Added Pin To Net: NetName=GND Pin=C18H-2
+Added Pin To Net: NetName=GND Pin=C22A-2
+Added Pin To Net: NetName=GND Pin=C22B-2
+Added Pin To Net: NetName=GND Pin=C22C-2
+Added Pin To Net: NetName=GND Pin=C22D-2
+Added Pin To Net: NetName=GND Pin=C22E-2
+Added Pin To Net: NetName=GND Pin=C22F-2
+Added Pin To Net: NetName=GND Pin=C22G-2
+Added Pin To Net: NetName=GND Pin=C22H-2
+Added Pin To Net: NetName=NetC22A_1 Pin=C22A-1
+Added Pin To Net: NetName=NetC22A_1 Pin=U4A-13
+Added Net: Name=NetC22A_1
+Added Pin To Net: NetName=NetC22B_1 Pin=C22B-1
+Added Pin To Net: NetName=NetC22B_1 Pin=U4B-13
+Added Net: Name=NetC22B_1
+Added Pin To Net: NetName=NetC22C_1 Pin=C22C-1
+Added Pin To Net: NetName=NetC22C_1 Pin=U4C-13
+Added Net: Name=NetC22C_1
+Added Pin To Net: NetName=NetC22D_1 Pin=C22D-1
+Added Pin To Net: NetName=NetC22D_1 Pin=U4D-13
+Added Net: Name=NetC22D_1
+Added Pin To Net: NetName=NetC22E_1 Pin=C22E-1
+Added Pin To Net: NetName=NetC22E_1 Pin=U4E-13
+Added Net: Name=NetC22E_1
+Added Pin To Net: NetName=NetC22F_1 Pin=C22F-1
+Added Pin To Net: NetName=NetC22F_1 Pin=U4F-13
+Added Net: Name=NetC22F_1
+Added Pin To Net: NetName=NetC22G_1 Pin=C22G-1
+Added Pin To Net: NetName=NetC22G_1 Pin=U4G-13
+Added Net: Name=NetC22G_1
+Added Pin To Net: NetName=NetC22H_1 Pin=C22H-1
+Added Pin To Net: NetName=NetC22H_1 Pin=U4H-13
+Added Net: Name=NetC22H_1

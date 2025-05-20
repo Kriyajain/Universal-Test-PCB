@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VDD3.32 Pin=C8-1
+Removed Pin From Net: NetName=VDD3.32 Pin=C11-1
+Removed Pin From Net: NetName=VDD3.32 Pin=C13-1
+Removed Pin From Net: NetName=VDD3.32 Pin=C15-1
+Removed Pin From Net: NetName=VDD3.3_fpga Pin=J40-1
+Removed Pin From Net: NetName=GND Pin=J40-2
+Removed Pin From Net: NetName=VDD3.32 Pin=U8-6
+Removed Pin From Net: NetName=VDD3.32 Pin=U10-2
+Removed Member From Class: ClassName=THE_FIRST Member=J40
+Added Pin To Net: NetName=VDD3.3_fpga Pin=C8-1
+Added Pin To Net: NetName=VDD3.3_fpga Pin=C11-1
+Added Pin To Net: NetName=VDD3.3_fpga Pin=C13-1
+Added Pin To Net: NetName=VDD3.3_fpga Pin=C15-1
+Added Pin To Net: NetName=VDD3.3_fpga Pin=U8-6
+Added Pin To Net: NetName=VDD3.3_fpga Pin=U10-2

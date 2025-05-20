@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SC1B Pin=U2-JP2_15
+Added Pin To Net: NetName=SC2B Pin=U2-JP2_17
+Added Pin To Net: NetName=SC3B Pin=U2-JP2_19
+Added Member To Class: ClassName=U_BUFFER_ATOB Member=Component U8 SN74AXC2T245RSWR
