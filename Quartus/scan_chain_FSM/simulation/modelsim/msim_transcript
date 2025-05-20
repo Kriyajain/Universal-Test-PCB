@@ -1,0 +1,49 @@
+# ERROR: No extended dataflow license exists
+# do scan_chain_fsm_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying /home/kriya/intelFPGA_lite/20.1/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+/home/kriya/intelFPGA_lite/20.1/scan_chain_FSM {/home/kriya/intelFPGA_lite/20.1/scan_chain_FSM/scan_chain_fsm.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:05:25 on May 13,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/kriya/intelFPGA_lite/20.1/scan_chain_FSM" /home/kriya/intelFPGA_lite/20.1/scan_chain_FSM/scan_chain_fsm.v 
+# -- Compiling module scan_chain_fsm
+# 
+# Top level modules:
+# 	scan_chain_fsm
+# End time: 12:05:26 on May 13,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+/home/kriya/intelFPGA_lite/20.1/scan_chain_FSM {/home/kriya/intelFPGA_lite/20.1/scan_chain_FSM/tb_fsm.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:05:26 on May 13,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/kriya/intelFPGA_lite/20.1/scan_chain_FSM" /home/kriya/intelFPGA_lite/20.1/scan_chain_FSM/tb_fsm.v 
+# End time: 12:05:26 on May 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb_fsm
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" tb_fsm 
+# Start time: 12:05:26 on May 13,2025
+# ** Error: (vsim-3170) Could not find 'tb_fsm'.
+#         Searched libraries:
+#             /home/kriya/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/altera
+#             /home/kriya/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/220model
+#             /home/kriya/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/sgate
+#             /home/kriya/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/altera_mf
+#             /home/kriya/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/altera_lnsim
+#             /home/kriya/intelFPGA_lite/20.1/modelsim_ase/altera/verilog/cycloneive
+#             /home/kriya/intelFPGA_lite/20.1/scan_chain_FSM/simulation/modelsim/rtl_work
+#             /home/kriya/intelFPGA_lite/20.1/scan_chain_FSM/simulation/modelsim/rtl_work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./scan_chain_fsm_run_msim_rtl_verilog.do PAUSED at line 12
+# End time: 12:08:27 on May 13,2025, Elapsed time: 0:03:01
+# Errors: 1, Warnings: 0

@@ -1,0 +1,9 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+/home/kriya/intelFPGA_lite/20.1/i2c {/home/kriya/intelFPGA_lite/20.1/i2c/i2c_read_write.v}
+

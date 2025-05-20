@@ -1,0 +1,50 @@
+# ERROR: No extended dataflow license exists
+# do i2c_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying /home/kriya/intelFPGA_lite/20.1/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+/home/kriya/intelFPGA_lite/20.1/i2c {/home/kriya/intelFPGA_lite/20.1/i2c/i2c_read_write.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:44:06 on Apr 01,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/kriya/intelFPGA_lite/20.1/i2c" /home/kriya/intelFPGA_lite/20.1/i2c/i2c_read_write.v 
+# -- Compiling module i2c_read_write
+# 
+# Top level modules:
+# 	i2c_read_write
+# End time: 15:44:06 on Apr 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+/home/kriya/intelFPGA_lite/20.1/i2c {/home/kriya/intelFPGA_lite/20.1/i2c/i2c_read_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:44:06 on Apr 01,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+/home/kriya/intelFPGA_lite/20.1/i2c" /home/kriya/intelFPGA_lite/20.1/i2c/i2c_read_tb.v 
+# -- Compiling module i2c_read_tb
+# 
+# Top level modules:
+# 	i2c_read_tb
+# End time: 15:44:06 on Apr 01,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  i2c_read_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" i2c_read_tb 
+# Start time: 15:44:06 on Apr 01,2025
+# Loading work.i2c_read_tb
+# Loading work.i2c_read_write
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break key hit
+# Simulation stop requested.
+# End time: 15:45:23 on Apr 01,2025, Elapsed time: 0:01:17
+# Errors: 0, Warnings: 0

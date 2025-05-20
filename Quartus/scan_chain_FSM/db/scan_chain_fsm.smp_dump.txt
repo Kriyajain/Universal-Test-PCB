@@ -1,0 +1,7 @@
+
+State Machine - |scan_chain_fsm|state
+Name state.SHIFT state.RESET state.START state.000 
+state.000 0 0 0 0 
+state.START 0 0 1 1 
+state.RESET 0 1 0 1 
+state.SHIFT 1 0 0 1 
